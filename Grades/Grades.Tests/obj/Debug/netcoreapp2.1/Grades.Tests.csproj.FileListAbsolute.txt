@@ -1,0 +1,16 @@
+/Users/Green/Projects/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csprojResolveAssemblyReference.cache
+/Users/Green/Projects/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.csproj.CoreCompileInputs.cache
+/Users/Green/Projects/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.AssemblyInfoInputs.cache
+/Users/Green/Projects/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.AssemblyInfo.cs
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.deps.json
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.runtimeconfig.json
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.runtimeconfig.dev.json
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.dll
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.Tests.pdb
+/Users/Green/Projects/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.dll
+/Users/Green/Projects/Grades/Grades.Tests/obj/Debug/netcoreapp2.1/Grades.Tests.pdb
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.dll
+/Users/Green/Projects/Grades/Grades.Tests/bin/Debug/netcoreapp2.1/Grades.pdb

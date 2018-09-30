@@ -1,0 +1,10 @@
+/Users/Green/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.deps.json
+/Users/Green/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.runtimeconfig.json
+/Users/Green/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.runtimeconfig.dev.json
+/Users/Green/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.dll
+/Users/Green/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.pdb
+/Users/Green/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.csproj.CoreCompileInputs.cache
+/Users/Green/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.AssemblyInfoInputs.cache
+/Users/Green/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.AssemblyInfo.cs
+/Users/Green/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.dll
+/Users/Green/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.pdb

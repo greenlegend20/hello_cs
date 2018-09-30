@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="1.2.1" />
+    <PackageReference Include="MSTest.TestFramework" Version="1.2.1" />
+    <PackageReference Include="Microsoft.VisualStudio.TestPlatform" Version="14.0.0.1" />
+    <PackageReference Include="TestToolsToXunitProxy" Version="0.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="UnitTest1.cs" />
+    <Compile Remove="EmptyClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Grades\Grades.csproj" />
+  </ItemGroup>
+</Project>
